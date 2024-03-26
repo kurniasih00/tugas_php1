@@ -4,6 +4,7 @@ $alamat="tangerang";
 $jenis_kelamin="perempuan";
 $umur="20";
 $hobi="menulis";
+$nomor_hp="088291380575";
 $email="niya9391@gmail.com"
 ?>
 
@@ -112,6 +113,10 @@ $email="niya9391@gmail.com"
         <tr>
             <td>Hobi</td>
             <td>: <?= $hobi ?></td>
+        </tr>
+        <tr>
+            <td>Nomor HP</td>
+            <td>: <?= $nomor_hp ?></td>
         </tr>
         <tr>
             <td>Email</td>
